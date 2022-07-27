@@ -32,5 +32,5 @@ app.get("/aboutus",(req,res)=>{
         +"<ol/>"
     );
 });
-var server=app.listen(9000);
+var server=app.listen(3000);
 console.log("online shopping running on port no 9000")
